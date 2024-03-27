@@ -6,7 +6,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## This project is sticky note.
 ``````
-npm run dev
+npm run dev or yarn start
 ``````
 ## Project start
 
