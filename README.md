@@ -11,5 +11,5 @@ npm run dev
 ## Project start
 
 ``````
-npm start
+npm start or yarn start
 ``````
